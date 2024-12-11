@@ -1,0 +1,7 @@
+venv/
+.env
+__pycache__/
+*.pyc
+notes.txt
+app.py
+2048/
